@@ -1,3 +1,5 @@
+# Electron React Boilerplate without Flow, React Router and Redux
+
 ```bash
 git clone --depth 1 --single-branch --branch master https://github.com/yanari/electron-react-boilerplate.git your-project-name
 ```
